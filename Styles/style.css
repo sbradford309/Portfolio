@@ -7,6 +7,7 @@ html, body {
 header {
     background-color: #F77F00;
     width: 100%;
+    padding: 20px;
 }
 
 h1{
@@ -16,6 +17,7 @@ h1{
 
 #experience {
     display: flex;
+    text-align: center;
 }
 #WorkHis, #Edu {
     width: 500px;
