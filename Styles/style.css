@@ -3,6 +3,7 @@ body {
 }
 header {
     background-color: #F77F00;
+    width: 300px;
 }
 
 h1{
@@ -12,4 +13,7 @@ h1{
 
 #experience {
     display: flex;
+}
+#WorkHis, #Edu {
+    width: 150px;
 }
