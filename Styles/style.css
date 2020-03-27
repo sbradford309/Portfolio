@@ -21,7 +21,16 @@ section {
     width: 80vw;
     background-color: white;
     border-radius: 15px;
+    border-style: solid;
+    border-color: #4e5B85;
+    border-width: 2px;
 
+}
+footer {
+    background-color: transparent;
+    background-image: linear-gradient(#eae2b7,#f77f00);
+    padding-bottom: 2vh;
+    padding: 25px;
 }
 
 div {
@@ -41,6 +50,7 @@ h2{
     display: flex;
     justify-content: center;
     background-color: transparent;
+    border-color: transparent;
     
 }
 #WorkHis, #Edu {
@@ -49,6 +59,9 @@ h2{
     padding: 10px;
     background-color: white;
     border-radius: 15px;
+    border-style: solid;
+    border-color: #4e5B85;
+    border-width: 2px;
 }
 
 #Introduction {
