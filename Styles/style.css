@@ -19,8 +19,7 @@ h1{
 
 #experience {
     display: flex;
-    margin-left: auto;
-    margin-right: auto;
+    justify-content: center;
 }
 #WorkHis, #Edu {
     width: 500px;
