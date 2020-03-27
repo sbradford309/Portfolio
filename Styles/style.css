@@ -14,13 +14,19 @@ header {
 
 h1{
     font-size: 30px;
+    margin: 10px;
+    padding: 10px;
 }
 
 #experience {
     display: flex;
     justify-content: center;
+    margin: 10px;
+    padding: 10px;
 }
 #WorkHis, #Edu {
     width: 500px;
     float: left;
+    margin: 10px;
+    padding: 10px;
 }
