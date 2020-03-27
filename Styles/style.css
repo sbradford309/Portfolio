@@ -6,6 +6,7 @@ html, body {
 }
 header {
     background-color: #F77F00;
+    background-image: linear-gradient(#d62828,#f77f00)
     width: 100%;
     padding: 20px;
     position: sticky;
@@ -13,7 +14,6 @@ header {
 }
 
 h1{
-    color: #003049;
     font-size: 30px;
 }
 
