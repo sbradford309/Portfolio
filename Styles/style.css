@@ -1,9 +1,12 @@
-body {
+html, body {
+    margin: 0;
+    padding: 0;
+    color: #000000;
     background-color: #fcbf49;
 }
 header {
     background-color: #F77F00;
-    width: 1200px;
+    width: 100%;
 }
 
 h1{
@@ -16,4 +19,5 @@ h1{
 }
 #WorkHis, #Edu {
     width: 500px;
+    
 }
