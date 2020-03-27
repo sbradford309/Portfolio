@@ -5,7 +5,7 @@ html, body {
     background-color: #eae2b7;
 }
 header {
-    background-image: linear-gradient(rgb(214, 40, 40),rgb(247, 127, 0));
+    background-image: linear-gradient(#f77f00,#eae2b7);
     width: 100%;
     padding: 20px;
     position: sticky;
